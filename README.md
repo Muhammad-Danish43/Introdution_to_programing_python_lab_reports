@@ -56,6 +56,12 @@ After completing these lab reports, students will be able to:
 - Apply logical thinking to solve programming problems  
 
 ---
+📂 **Lab Reports Folder (Total: 11 Labs)**  
+👉 [Click here to view Lab Reports](./Lab_reports)
+🖼️ **Output Images Folder**  
+👉 [Click here to view all output images](./images)
+
+
 
 ## 👨‍🎓 Author
 **Muhammad Danish**  
