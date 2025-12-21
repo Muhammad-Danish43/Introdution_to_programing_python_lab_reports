@@ -1,4 +1,4 @@
-# Introduction to Programming Using Python – Lab Reports
+# **Introduction to Programming Using Python – Lab Reports**
 
 ## 📘 Overview
 This repository contains Python lab reports created for the course **Introduction to Programming Using Python**.  
@@ -25,17 +25,17 @@ All lab reports are organized inside the `Lab_reports` folder.
 ---
 
 ## 📂 Repository Structure
-Introduction_to_Programming_Python_Lab_Reports/
+Introduction_to_Programming_Python_Lab_Reports/<br>
 │
-├── Lab_reports/
-│ ├── Lab_report_1.ipynb
-│ ├── Lab_report_2.ipynb
-│ ├── Lab_report_3.ipynb
-│ ├── Lab_report_4.ipynb
-│ ├── Lab_report_5.ipynb
-│ └── ...
-│
-└── README.md
+├── Lab_reports/<br>
+│ ├── Lab_report_1.ipynb<br>
+│ ├── Lab_report_2.ipynb<br>
+│ ├── Lab_report_3.ipynb<br>
+│ ├── Lab_report_4.ipynb<br>
+│ ├── Lab_report_5.ipynb<br>
+│ └── ...<br>
+│<br>
+└── README.md<br>
 
 ---
 
@@ -59,7 +59,7 @@ After completing these lab reports, students will be able to:
 
 ## 👨‍🎓 Author
 **Muhammad Danish**  
-Student of Electrical Engineering (comp & Ai) 
+Student of Electrical Engineering (comp & Ai) <br>
 Python Programming Learner  
 
 ---
